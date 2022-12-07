@@ -1,0 +1,18 @@
+    <section>
+        <div class="container" id="container">
+            
+                <img class="avatar"src="/img/Vincent van Gogh.png" alt="Vincent van gogh portrait">
+                <p class="name text-color text-bg text-bold">Vincent van Gogh <span class="location text-sm">Zudert, Netherlands</span></p>
+                <img class="post" src="/img/post-image-one.png" alt="">
+                <img class="icon"src="/img/like.png" alt="like button">
+                <img class="icon"src="/img/comment.png" alt="comment button">
+                <img class="icon" src="img/share.png" alt="share button">
+                <p class="likes text-sm text-bold">
+                    21,492 likes
+                </p>
+                <p class="username text-color text-sm text-bold">
+                ayequill
+                </p>
+                <p class=" comment text-sm text-color ">just took a few mushrooms lol</p>
+        </div>
+    </section>
